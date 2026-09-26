@@ -12,8 +12,8 @@ The project is designed around a simple idea:
 
 ## 🌐 Project Links
 
-- **Live Site:** _Add your deployed URL here_
-- **GitHub Repository:** _https://github.com/faaiisal/B14-A6-Fit-Log-Assistement-06_
+- **Live Site:** https://b14-a6-fit-log-assistement-06.vercel.app
+- **GitHub Repository:** https://github.com/faaiisal/B14-A6-Fit-Log-Assistement-06
 
 ---
 
